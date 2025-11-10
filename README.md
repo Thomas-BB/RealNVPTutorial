@@ -9,4 +9,5 @@ On a two-dimensional toy dataset it will be illustrated step by step, why Real N
 torch 2.5.1 \
 numpy 2.2.1 \
 matplotlib 3.10.0 \
-scikit-learn 1.7.2
+scikit-learn 1.7.2 \
+basic understanding of calculus, linear algebra and neural networks
